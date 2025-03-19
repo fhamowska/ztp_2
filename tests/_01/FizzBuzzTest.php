@@ -1,8 +1,8 @@
 <?php
 
-namespace Test;
+namespace Test\_01;
 
-use App\FizzBuzz;
+use App\_01\FizzBuzz;
 use Generator;
 use PHPUnit\Framework\TestCase;
 
